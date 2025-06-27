@@ -9,7 +9,7 @@ A comprehensive platform for drone fleet management, mission planning, and real-
 ## 🌐 Live Deployments
 
 - **Production:** [flytbase-cj.netlify.app](https://flytbase-cj.netlify.app)
-- **Custom Domain:** [flytbase.chiragjain.pro](https://flytbase.chiragjain.pro)
+- 
 
 ## 📋 Project Overview
 
@@ -96,8 +96,8 @@ flytBase-drone/
 
 ## 👤 Contact
 
-- **Developer:** Chirag Jain
-- **Email:** chirag8966@gmail.com
+- **Developer:** Rajeev Ranjan
+- **Email:** rajeevranjanpusa2003@gmail.com
 
 ---
 
